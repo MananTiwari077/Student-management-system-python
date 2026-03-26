@@ -17,5 +17,5 @@ This is my first Python project. it focuses on learning Object-Oriented Programm
 
 ## Project Structure
 - main.py → user interaction (menu)
-- manager.py → handles all operations
-- student.py → defines Student class
+- student_manager.py → handles all operations
+- students.py → defines Student class
